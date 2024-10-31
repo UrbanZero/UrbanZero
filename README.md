@@ -2,11 +2,11 @@
 [![Static Badge](https://img.shields.io/badge/UrbanZero-Itch.io-orange)](https://urbanzero.itch.io/) [![Static Badge](https://img.shields.io/badge/urban0-discord-blue)](https://discord.com/)
 
 ## Actualmente estoy 
-- ### [x]  **Estudiando [DAW](https://llegarasalto.com/guiafp/ciclos/IFC-323.html)en la [Conservera](https://sites.google.com/view/fplaconservera)** 📚 
-- ### [x] **Desarrollando un [bot de discord](https://github.com/UrbanZero/Conserbot) para mi curso** 🤖
-- ### [x] Creando Videojuegos para mi perfil de [Itch.io](https://urbanzero.itch.io/) 🎮
-- ### [x] Trabajando en grandes proyectos
-- ### [ ] [**Creando una IA para dominar el mundo**](#IA)
+- ### **Estudiando [DAW](https://llegarasalto.com/guiafp/ciclos/IFC-323.html)en la [Conservera](https://sites.google.com/view/fplaconservera)** 📚 
+- ### **Desarrollando un [bot de discord](https://github.com/UrbanZero/Conserbot) para mi curso** 🤖
+- ### Creando Videojuegos para mi perfil de [Itch.io](https://urbanzero.itch.io/) 🎮
+- ### Trabajando en grandes proyectos
+- ### [**Creando una IA para dominar el mundo**](#IA)
 
 ## Mis Asignaturas 📚
 - Bases de datos
@@ -21,6 +21,7 @@
 ## Mis motores de confianza ⚙️
 - Para 2D: [Godot](https://godotengine.org/)
 - Para 3D: [Unreal Engine 5](https://www.unrealengine.com/es-ES/unreal-engine-5)
+> Conserbot: **@Tú** está estudiando **@rol**
 
 ## Mis idiomas más hablados 💬
 - JavaScript *usado en [Conserbot](https://github.com/UrbanZero/Conserbot)*.
