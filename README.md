@@ -21,7 +21,6 @@
 ## Mis motores de confianza ⚙️
 - Para 2D: [Godot](https://godotengine.org/)
 - Para 3D: [Unreal Engine 5](https://www.unrealengine.com/es-ES/unreal-engine-5)
-> Conserbot: **@Tú** está estudiando **@rol**
 
 ## Mis idiomas más hablados 💬
 - JavaScript *usado en [Conserbot](https://github.com/UrbanZero/Conserbot)*.
