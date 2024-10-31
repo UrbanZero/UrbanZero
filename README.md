@@ -1,16 +1,37 @@
-## Hi there 👋
+# Perfil de Github de UrbanZero 👋
+[![Static Badge](https://img.shields.io/badge/UrbanZero-Itch.io-orange)](https://urbanzero.itch.io/) [![Static Badge](https://img.shields.io/badge/urban0-discord-blue)](https://discord.com/)
 
-<!--
-**UrbanZero/UrbanZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente estoy 
+- ### [x]  **Estudiando [DAW](https://llegarasalto.com/guiafp/ciclos/IFC-323.html)en la [Conservera](https://sites.google.com/view/fplaconservera)** 📚 
+- ### [x] **Desarrollando un [bot de discord](https://github.com/UrbanZero/Conserbot) para mi curso** 🤖
+- ### [x] Creando Videojuegos para mi perfil de [Itch.io](https://urbanzero.itch.io/) 🎮
+- ### [x] Trabajando en grandes proyectos
+- ### [ ] [**Creando una IA para dominar el mundo**](#IA)
 
-Here are some ideas to get you started:
+## Mis Asignaturas 📚
+- Bases de datos
+- Digitalización Aplicada al Sistema Productivo
+- Entornos de desarrollo
+- Inglés Profesional
+- Itinerario personal para la empleabilidad
+- Lenguajes de marcas y sistemas de gestión de información *(la mejor)*
+- Programación
+- Sistemas informáticos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis motores de confianza ⚙️
+- Para 2D: [Godot](https://godotengine.org/)
+- Para 3D: [Unreal Engine 5](https://www.unrealengine.com/es-ES/unreal-engine-5)
+> Conserbot: **@Tú** está estudiando **@rol**
+
+## Mis idiomas más hablados 💬
+- JavaScript *usado en [Conserbot](https://github.com/UrbanZero/Conserbot)*.
+- C# *para Unity*.
+- C++ *para Unreal y Godot*.
+- Html y CSS *~~no son idiomas~~ para web*.
+- Python *para redes neuronales artificiales (ann)*.
+
+## Mis proyectos 🛠️
+> Para más informacion sobre mis proyectos, visita mi [Itch.io](https://urbanzero.itch.io/) o [bot](https://github.com/UrbanZero/Conserbot) (también con Markdown en su [READ.ME](https://github.com/UrbanZero/Conserbot)) 
+
+## IA para dominar el mundo 🤖
+Aun no lo conseguí 😔
